@@ -60,4 +60,6 @@ Se muestra una tabla con el nombre, población, superficie y continente de los p
 
 Autor
 Francisco Adriano Caballero Paganini
+
 diagrama de funcionamiento: https://drive.google.com/file/d/1x2PJbaXWHLrCcO9jPgJZiHuwnHp9wCx8/view?usp=sharing
+video explicativo https://photos.app.goo.gl/yKanBB6CrKqC7xns9
