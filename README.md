@@ -224,6 +224,6 @@ A través del desarrollo de este programa se aplicaron diferentes conceptos fund
 
 Las listas y los diccionarios permiten almacenar y organizar los datos; las funciones dividen el programa en tareas específicas; los condicionales permiten controlar las decisiones; los ordenamientos facilitan la organización de la información; las estadísticas permiten analizar los datos y los archivos CSV permiten guardar y recuperar la información de manera permanente.
 
-y este es el diagrama de funcionamiento
 La integración de todos estos conceptos permitió desarrollar un sistema de gestión de países funcional, organizado y fácil de utilizar.
-https://drive.google.com/file/d/1x2PJbaXWHLrCcO9jPgJZiHuwnHp9wCx8/view?usp=sharing
+
+este es el diagrama de funcionamiento: https://drive.google.com/file/d/1x2PJbaXWHLrCcO9jPgJZiHuwnHp9wCx8/view?usp=sharing
